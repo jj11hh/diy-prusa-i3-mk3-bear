@@ -1,9 +1,12 @@
 # diy-prusa-i3-mk3-bear
 My attempt to build an improved Prusa i3 MK3 3D printer clone with Full Bear frame from scratch
 
+* This is a fork attempt to build it with China's parts, and cost down to ￥1000 CNY (< $200 USD)
+* 这个分支将尝试使用中国制的元件来构建，将成本控制在1000人民币以下
+
 ![MK3 Bear Clone with Reverse Bowden](images/MK3_Bear_Clone_with_Reverse_Bowden.jpg)
 
-## Building Instructions
+## Building Instructions【构建步骤】
 
 ### Procuring Parts and Materials
 
